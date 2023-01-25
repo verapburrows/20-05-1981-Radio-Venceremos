@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "20-05-1981" ] },
+    "summary": { "en": [ "First audio file from Radio Venceremos" ] },
+    "items": [
+    ]
+}

@@ -1,5 +1,5 @@
 ---
-layout: aviary
+layout: item
 title: Radio Venceremos 1981-05-28 Radio Venceremos 1981-05-28
 manifest_name: radio-venceremos-1981-05-28-radio-venceremos-1981-05-28
 permalink: radio-venceremos-1981-05-28-radio-venceremos-1981-05-28
